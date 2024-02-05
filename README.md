@@ -10,17 +10,6 @@ A Deliveroo clone is a platform designed to replicate the functionality and feat
 ![App Screenshot](./screenshots/overview.png)
 ![App Screenshot](./screenshots/overview1.png)
 
-## Screenshots
-
-
-![App Screenshot](./screenshots/main.png)
-![App Screenshot](./screenshots/yoshushi.png)
-![App Screenshot](./screenshots/bbq.png)
-![App Screenshot](./screenshots/tonicocafe.png)
-![App Screenshot](./screenshots/thomsoncasa.png)
-
-
-
 
 ## 🔗 Links
 
